@@ -5,7 +5,7 @@
 
 
 ## Environment
-The environment is from 
+The environment is from https://github.com/srsohn/subtask-graph-execution
 ```
 @inproceedings{sohn2018hierarchical,
   title={Hierarchical Reinforcement Learning for Zero-shot Generalization with Subtask Dependencies},

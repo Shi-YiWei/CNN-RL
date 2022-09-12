@@ -2,7 +2,7 @@
 
 
 ## Description
-
+This code is a DQN algorithm to train the model to get the maximum reward, and the input to the model is the image.
 
 ## Environment
 The source of the environment is at https://github.com/srsohn/subtask-graph-execution
